@@ -1,0 +1,18 @@
+[
+  {
+    "name": "John",
+    "anticheat": "AC1"
+  },
+  {
+    "name": "Jane",
+    "anticheat": "AC2"
+  },
+  {
+    "name": "Bob",
+    "anticheat": "AC3"
+  },
+  {
+    "name": "Alice",
+    "anticheat": "AC1"
+  }
+]
