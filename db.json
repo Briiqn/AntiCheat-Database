@@ -1,37 +1,46 @@
 [
   {
     "name": "Hypixel",
-    "anticheat": "WatchDog + UNCP (for setbacks)"
+    "anticheat": "WatchDog + UNCP (for setbacks)",
+    "ip": "hypixel.net"
   },
   {
     "name": "BlocksMC",
-    "anticheat": "Verus Crack (For Combat) + UNCP (For Movement)"
+    "anticheat": "Verus Crack (For Combat) + UNCP (For Movement)",
+    "ip": "blocksmc.com"
   },
   {
     "name": "MushMC",
-    "anticheat": "Verus Custom"
+    "anticheat": "Verus Custom",
+    "ip": "mush.com.br"
   }, {
     "name": "Pika Network",
-    "anticheat": "Sparky"
+    "anticheat": "Sparky",
+    "ip": "play.pika-network.net"
   },
    {
     "name": "Jartex Network",
-    "anticheat": "Sparky"
+    "anticheat": "Sparky",
+    "ip": "jartex.fun"
   },  
   {
     "name": "AstralMC",
-    "anticheat": "Sparky"
+    "anticheat": "Sparky",
+    "ip": "astralmc.cc"
   },
     {
     "name": "Hylex",
-    "anticheat": "Karhu"
+    "anticheat": "Karhu",
+    "ip": "hylex.gg"
   },
   {
     "name": "Hycraft",
-    "anticheat": "Vulcan"
+    "anticheat": "Vulcan",
+    "ip": "hycraft.us"
   },
   {
     "name": "ColdPVP",
-    "anticheat": "Verus Custom"
+    "anticheat": "Verus Custom",
+    "ip": "coldpvp.com
   }
 ]
