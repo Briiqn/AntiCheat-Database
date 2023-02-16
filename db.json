@@ -1,18 +1,36 @@
 [
   {
-    "name": "John",
-    "anticheat": "AC1"
+    "name": "Hypixel",
+    "anticheat": "WatchDog + UNCP (for setbacks)"
   },
   {
-    "name": "Jane",
-    "anticheat": "AC2"
+    "name": "BlocksMC",
+    "anticheat": "Verus Crack (For Combat) + UNCP (For Movement)"
   },
   {
-    "name": "Bob",
-    "anticheat": "AC3"
+    "name": "MushMC",
+    "anticheat": "Verus Custom"
+  }, {
+    "name": "Pika Network",
+    "anticheat": "Sparky"
+  },
+   {
+    "name": "Jartex Network",
+    "anticheat": "Sparky"
+  },  
+  {
+    "name": "AstralMC",
+    "anticheat": "Sparky"
+  },
+    {
+    "name": "Hylex",
+    "anticheat": "Karhu"
+  },
+    "name": "Hycraft",
+    "anticheat": "Vulcan"
   },
   {
-    "name": "Alice",
-    "anticheat": "AC1"
+    "name": "ColdPVP",
+    "anticheat": "Verus Custom"
   }
 ]
