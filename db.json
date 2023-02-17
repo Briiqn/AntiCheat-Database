@@ -82,5 +82,15 @@
     "name": "Lunar",
     "anticheat": "Fallback (Skidded Verus)",
     "ip": "lunar.gg"
+  },
+      {
+    "name": "Minebox",
+    "anticheat": "Vulcan",
+    "ip": "mc.minebox.es"
+  },
+   {
+    "name": "Zonecraft",
+    "anticheat": "Morgan (Most Likely Skidded Vulcan)",
+    "ip": "zonecraft.es"
   }
 ]
