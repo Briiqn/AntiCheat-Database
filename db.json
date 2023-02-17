@@ -42,5 +42,25 @@
     "name": "ColdPVP",
     "anticheat": "Verus Custom",
     "ip": "coldpvp.com"
+  },
+   {
+    "name": "Minemen",
+    "anticheat": "AntiGamingChair",
+    "ip": "minemen.club"
+  },
+   {
+    "name": "DynamicPVP",
+    "anticheat": "Sparky",
+    "ip": "dynamicpvp.net"
+  }
+   {
+    "name": "OniPVP",
+    "anticheat": "Sparky",
+    "ip": "onipvp.net"
+  }
+ {
+    "name": "Gamster",
+    "anticheat": "Intave 14 (LATEST)",
+    "ip": "gamster.org"
   }
 ]
