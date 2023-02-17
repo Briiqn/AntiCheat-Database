@@ -92,5 +92,10 @@
     "name": "Zonecraft",
     "anticheat": "Morgan (Most Likely Skidded Vulcan)",
     "ip": "zonecraft.es"
+  },
+   {
+    "name": "UltimisMC",
+    "anticheat": "Sparky",
+    "ip": "ultimismc.com"
   }
 ]
