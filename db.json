@@ -93,6 +93,31 @@
     "anticheat": "Morgan (Most Likely Skidded Vulcan)",
     "ip": "zonecraft.es"
   },
+    {
+    "name": "HazelMC",
+    "anticheat": "Verus Budget",
+    "ip": "hazelmc.com"
+  }, 
+  {
+    "name": "BWHub",
+    "anticheat": "(Old?) Verus Budget",
+    "ip": "bwhub.net"
+  },
+   {
+    "name": "HolyPvP",
+    "anticheat": "Sparky",
+    "ip": "holypvp.org”
+  },
+    {
+    "name": "OmegaCraft",
+    "anticheat": "Updated NCP",
+    "ip": "omegacraft.cl"
+  }, 
+   {
+    "name": "EcuaCraft",
+    "anticheat": "Verus Premium",
+    "ip": "na.ecuacraft.gg"
+  }, 
    {
     "name": "UltimisMC",
     "anticheat": "Sparky",
