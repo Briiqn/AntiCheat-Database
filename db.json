@@ -62,5 +62,15 @@
     "name": "Gamster",
     "anticheat": "Intave 14 (LATEST)",
     "ip": "gamster.org"
+  },
+   {
+    "name": "SagePVP",
+    "anticheat": "Verus",
+    "ip": "sagepvp.org"
+  }
+   {
+    "name": "Ghostly",
+    "anticheat": "Sparky",
+    "ip": "ghostly.live"
   }
 ]
