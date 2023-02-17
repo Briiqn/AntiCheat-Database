@@ -72,5 +72,15 @@
     "name": "Ghostly",
     "anticheat": "Sparky",
     "ip": "ghostly.live"
+  },
+   {
+    "name": "BridgerLand",
+    "anticheat": "Taka",
+    "ip": "bridger.land"
+  },
+     {
+    "name": "Lunar",
+    "anticheat": "Fallback (Skidded Verus)",
+    "ip": "lunar.gg"
   }
 ]
